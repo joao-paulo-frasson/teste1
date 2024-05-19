@@ -1,6 +1,11 @@
-@charset "UTF-8";
+@charset "utf-8";
 
-body{
-    background-color: gray;
+body {
+    background-color: #7AC9EF;
     text-align: justify;
+    background-attachment: fixed;
+}
+h1 {
+    color:#000000;
+    ;
 }
