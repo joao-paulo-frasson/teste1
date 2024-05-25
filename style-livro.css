@@ -1,8 +1,16 @@
 @charset "utf-8";
 
 body {
-    background-image: linear-gradient(#000000, #999C9C,#1C0408,#D71E23,#0F0305);
+    background-image: linear-gradient(#ABB0B0, #0D0103 ,#290206,#4A0606,#E22429);
     text-align: justify;
+}
+main{
+    background-color: rgb(171, 166, 166);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #bdaa3fa6;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
 }
 
 li {
@@ -10,15 +18,16 @@ li {
 }
  
 h1 {
-    color: #FEEF84;
+    color: #F3DA52;
+    text-align: center;
 }
 
 h2 {
-    color: #FEEF84;
+    color: #F3DA52;
 }
 
 p {
-    color: white;
+    color: black;
     text-align: justify;
 }
 
