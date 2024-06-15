@@ -29,5 +29,8 @@ h2 {
 p {
     color: black;
     text-align: justify;
+    text-indent: 30px;
 }
-
+a{
+    color:#F3DA52
+}
