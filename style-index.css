@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body {
+    background-color: rgb(220, 147, 147);
+    text-align: justify;
+    background-attachment: fixed;
+}
+h1 {
+    color:#000000;
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.principal{
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+}
